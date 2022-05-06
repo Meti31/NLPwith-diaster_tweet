@@ -27,8 +27,7 @@
 #### Data cleaning 
 ###### Remove URL from the 
 ###### Remove special charctersics 
-###### Remove HTML Tags from the texts
-###### Remove Emoji
+
 
 #### Build Model
 ###### change the text to vectors
