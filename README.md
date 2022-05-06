@@ -44,8 +44,8 @@
 ### Conclusions
 #### The f1 score was not high which indicates linear model might not be the best model for this type of data 
 ### Future Work
-### use different models to compare their efficency  
-### Reference 
+#### use different models to compare their efficency  
+#### Reference 
 ### https://www.kaggle.com/code/philculliton/nlp-getting-started-tutorial/notebook
 
 
