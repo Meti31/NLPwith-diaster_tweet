@@ -7,10 +7,21 @@
   ##### The task, as defined by the Kaggle challenge is to use Natural Language processing to predict whether a given tweet is about a real disaster or not.  #####
    ##### The approach in this repository  is using text tweets as an input and train Linear model to predict whether it is a real disaster or not.The model had  average accuracy score of 0.6024.  #####
 ### Summary of WorkDone
-   ##### Data:
+   ##### Data
    ##### Type: CSV file (train csv file and test csv file)
-   ##### Input: , CSV file: image filename -> diagnosis
-   ##### Input: CSV file of features, output: signal/background flag in 1st column.
+   ##### Input: CSV file of features, output: target ==> 1 or 0.
    ##### Size: How much data? 10,876
+### Exploratory Data Analysis
+### The train data contains ID , Keyword ,Location ,Text ,Target
+<img width="463" alt="image" src="https://user-images.githubusercontent.com/89664911/167162764-9c13aad4-3570-4f80-8ccf-c809cb7e3e9b.png">
+### The train data contains ID , Keyword ,Location ,Text
+<img width="327" alt="image" src="https://user-images.githubusercontent.com/89664911/167162863-540a2ab9-c2ca-4886-9049-9b4fb897c12d.png">
+### Data Visualization
+### The barchart below shows the number of  comparision between 
+<img width="362" alt="image" src="https://user-images.githubusercontent.com/89664911/167163357-9fa8ba47-7173-4651-91e3-ddfb6a9543c4.png">
+
+
+
+
 
 
