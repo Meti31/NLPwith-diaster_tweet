@@ -27,13 +27,14 @@
 #### Data cleaning 
 ###### Remove URL from the 
 ###### Remove special charctersics 
+###### Remove HTML Tags from the texts
+###### Remove Emoji
 
 
 #### Build Model
 ###### change the text to vectors
 ###### It was trained using linearmodel 
-###### Remove HTML Tags from the texts
-###### Remove Emoji
+
 
 ### Performance Comparison
 ###### used f1 score to see the accuracy .
