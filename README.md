@@ -42,16 +42,12 @@
 
 
 ### Conclusions
-#### The accuracy score was not high which indicates linear model might not be the best model for this type of data 
-Future Work
-What would be the next thing that you would try.
-What are some other studies that can be done starting from here.
-How to reproduce results
-In this section, provide instructions at least one of the following:
-Reproduce your results fully, including training.
-Apply this package to other data. For example, how to use the model you trained.
-Use this package to perform their own study.
-Also describe what resources to use for this package, if appropirate. For example, point them to Collab and TPUs.
+#### The f1 score was not high which indicates linear model might not be the best model for this type of data 
+### Future Work
+### use different models to compare their efficency  
+### Reference 
+### https://www.kaggle.com/code/philculliton/nlp-getting-started-tutorial/notebook
+
 
 
 
