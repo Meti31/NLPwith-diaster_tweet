@@ -17,6 +17,7 @@
 
 #### The test data contains ID , Keyword ,Location ,Text
 <img width="327" alt="image" src="https://user-images.githubusercontent.com/89664911/167162863-540a2ab9-c2ca-4886-9049-9b4fb897c12d.png">
+ 
  ### Data Visualization
 
 #### The first barchart shows how many of the tweets are diaster not and the second one shows the length of the tweets 
