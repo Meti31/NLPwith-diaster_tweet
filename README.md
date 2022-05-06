@@ -4,7 +4,7 @@
   ##### This repository holds an attempt to apply Linear model to predict whether a tweets is  disaster or not using data from "Natural Language Processing with Disaster Tweets" Kaggle challenge (https://www.kaggle.com/competitions/nlp-getting-started/data).
  ### Overview
     
-  ##### The task, as defined by the Kaggle challenge is to use Natural Language processing to predict whether a given tweet is about a real disaster or not.  #####
+  ##### The task, as defined by the Kaggle challenge is to use Natural Language processing to predict whether a given tweet is about a real disaster or not.  
   ##### Natural Language Processing (NLP) is a subfield of artificial intelligence (AI). It helps machines process and understand the human language so that they can automatically perform repetitive tasks. Examples include machine translation, summarization, ticket classification, and spell check
 ![image](https://user-images.githubusercontent.com/89664911/167177781-79fd781f-b9db-43c4-a0e8-a332b9f105a2.png)
 
