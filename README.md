@@ -4,8 +4,8 @@
   ##### This repository holds an attempt to apply Linear model to predict whether a tweets is  disaster or not using data from "Natural Language Processing with Disaster Tweets" Kaggle challenge (https://www.kaggle.com/competitions/nlp-getting-started/data).
  ### Overview
     
-    ##### The task, as defined by the Kaggle challenge is to use Natural Language processing to predict whether a given tweet is about a real disaster or not.
+    ##### The task, as defined by the Kaggle challenge is to use Natural Language processing to predict whether a given tweet is about a real disaster or not.  #####
     
-    ##### The approach in this repository  is using text tweets as an input and train Linear model to predict whether it is a real disaster or not.The model had  average accuracy score of 0.6024.
+    ##### The approach in this repository  is using text tweets as an input and train Linear model to predict whether it is a real disaster or not.The model had  average accuracy score of 0.6024.  #####
 
 
