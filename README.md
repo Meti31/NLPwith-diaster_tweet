@@ -14,9 +14,11 @@
 ### Exploratory Data Analysis
 #### The train data contains ID , Keyword ,Location ,Text ,Target
 <img width="463" alt="image" src="https://user-images.githubusercontent.com/89664911/167162764-9c13aad4-3570-4f80-8ccf-c809cb7e3e9b.png">
-####  The test data contains ID , Keyword ,Location ,Text
+
+#### The test data contains ID , Keyword ,Location ,Text
 <img width="327" alt="image" src="https://user-images.githubusercontent.com/89664911/167162863-540a2ab9-c2ca-4886-9049-9b4fb897c12d.png">
-### Data Visualization
+ ### Data Visualization
+
 #### The first barchart shows how many of the tweets are diaster not and the second one shows the length of the tweets 
 <img width="362" alt="image" src="https://user-images.githubusercontent.com/89664911/167163357-9fa8ba47-7173-4651-91e3-ddfb6a9543c4.png">
 <img width="467" alt="image" src="https://user-images.githubusercontent.com/89664911/167164760-5b7b45e2-69bf-46fc-b59e-56c34a0a60d3.png">
