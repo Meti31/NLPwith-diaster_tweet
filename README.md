@@ -30,6 +30,32 @@
 ###### Remove HTML Tags from the texts
 ###### Remove Emoji
 
+#### Build Model
+###### change the text to vectors
+###### It was trained using linearmodel 
+###### Remove HTML Tags from the texts
+###### Remove Emoji
+
+### Performance Comparison
+###### used f1 score to see the accuracy .
+###### <img width="136" alt="image" src="https://user-images.githubusercontent.com/89664911/167168592-93af2e9c-2b8d-4f76-92da-e60013f538ff.png">
+
+
+### Conclusions
+#### The accuracy score was not high which indicates linear model might not be the best model for this type of data 
+Future Work
+What would be the next thing that you would try.
+What are some other studies that can be done starting from here.
+How to reproduce results
+In this section, provide instructions at least one of the following:
+Reproduce your results fully, including training.
+Apply this package to other data. For example, how to use the model you trained.
+Use this package to perform their own study.
+Also describe what resources to use for this package, if appropirate. For example, point them to Collab and TPUs.
+
+
+
+
 
 
 
