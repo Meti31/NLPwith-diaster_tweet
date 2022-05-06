@@ -22,7 +22,11 @@
 <img width="467" alt="image" src="https://user-images.githubusercontent.com/89664911/167164760-5b7b45e2-69bf-46fc-b59e-56c34a0a60d3.png">
 
 #### Data cleaning 
-#####
+###### Remove URL from the 
+###### Remove special charctersics 
+###### Remove HTML Tags from the texts
+###### Remove Emoji
+
 
 
 
